@@ -13,4 +13,7 @@ Doctors not washing their hands increased the proportion of deaths by between 6.
 
 # 2. Drawing flowers using Mathematics
 
-Explores drawing flowers, using mathematics such as the golden number; within the statistical package R.
+Explores drawing flowers, using mathematics such as the golden number; within the statistical package R. Explores Phyllotaxis.
+
+"Phyllotaxis
+Description: In botany, phyllotaxis or phyllotaxy is the arrangement of leaves on a plant stem. Phyllotactic spirals form a distinctive class of patterns in nature. The term was coined by Charles Bonnet to describe the arrangement of leaves on a plant."

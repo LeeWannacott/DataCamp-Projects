@@ -16,3 +16,6 @@ Doctors not washing their hands increased the proportion of deaths by between 6.
 Explores drawing flowers, using mathematics such as the golden number; within the statistical package R.
 
 Phyllotaxis description: In botany, phyllotaxis or phyllotaxy is the arrangement of leaves on a plant stem. Phyllotactic spirals form a distinctive class of patterns in nature. The term was coined by Charles Bonnet to describe the arrangement of leaves on a plant.
+
+# 3. Rise and Fall of Programming Languages
+Analyzing the relative popularity of programming languages over time based on Stack Overflow data.

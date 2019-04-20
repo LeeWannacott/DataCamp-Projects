@@ -1,6 +1,6 @@
 # DataCamp-Projects
 
-# 1. Discovery of Handwashing.
+# 1. Discovery of Handwashing.(Dr. Ignaz Semmelweis)
 This project looks into the effect the advent of handwashing had on the proportion of deaths at clinics.
 A look at data before and after handwashing procedures were introduced.
 

@@ -1,6 +1,6 @@
 # DataCamp-Projects
 
-# 1. Discovery of Handwashing
+# 1. Discovery of Handwashing.
 This project looks into the effect the advent of handwashing had on the proportion of deaths at clinics.
 A look at data before and after handwashing procedures were introduced.
 
@@ -11,9 +11,8 @@ One reason for this was that statistics were uncommon in medical science in the 
 
 Doctors not washing their hands increased the proportion of deaths by between 6.7 and 10 percentage points, according to a 95% confidence interval. It would seem that Semmelweis had solid evidence that handwashing was a simple but highly effective procedure that could save many lives.
 
-# 2. Drawing flowers using Mathematics
+# 2. Drawing flowers using Mathematics. (Phyllotaxis)
 
-Explores drawing flowers, using mathematics such as the golden number; within the statistical package R. Explores Phyllotaxis.
+Explores drawing flowers, using mathematics such as the golden number; within the statistical package R.
 
-"Phyllotaxis
-Description: In botany, phyllotaxis or phyllotaxy is the arrangement of leaves on a plant stem. Phyllotactic spirals form a distinctive class of patterns in nature. The term was coined by Charles Bonnet to describe the arrangement of leaves on a plant."
+Phyllotaxis description: In botany, phyllotaxis or phyllotaxy is the arrangement of leaves on a plant stem. Phyllotactic spirals form a distinctive class of patterns in nature. The term was coined by Charles Bonnet to describe the arrangement of leaves on a plant.

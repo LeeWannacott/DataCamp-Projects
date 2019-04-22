@@ -1,11 +1,10 @@
 # DataCamp-Projects
-Note: Github sometimes has problems with viewing Juypter Notebook files if this occurs enter notebook URL at https://nbviewer.jupyter.org/
-(Py = Python programming language, R = R statistical computing package)
+Note: (Py = Python programming language, R = R statistical computing package).
+Github sometimes has problems with viewing Juypter Notebook files if this occurs enter notebook URL at https://nbviewer.jupyter.org/
 
 # 1. Discovery of Handwashing. (Dr. Ignaz Semmelweis).
 This project looks into the effect the advent of handwashing had on the proportion of deaths at clinics.
 A look at data before and after handwashing procedures were introduced.
-
 
 Dr. Ignaz Semmelweis's theory that childbed fever was caused by some "substance" (what we today know as bacteria) from autopsy room corpses was ridiculed by contemporary scientists at the time. The medical community largely rejected his discovery and in 1849 he was forced to leave the Vienna General Hospital for good.
 

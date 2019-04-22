@@ -1,5 +1,5 @@
 # DataCamp-Projects
-Note: (Py = Python programming language, R = R statistical computing package).
+Note: (Py = Python , R = R statistical package).
 Github sometimes has problems with viewing Juypter Notebook files if this occurs enter notebook URL at https://nbviewer.jupyter.org/
 
 # 1. Discovery of Handwashing. (Dr. Ignaz Semmelweis).

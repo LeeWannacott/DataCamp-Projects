@@ -7,7 +7,7 @@ Github sometimes has problems viewing Juypter Notebook files; if this occurs ent
 Looks into the effect the introduction of handwashing had on the proportion of deaths at Viennese clinics.
 
 # 2R. Phyllotaxis Draw Flowers Using Mathematics
-Explores drawing flowers, using mathematics such as the golden number; within the statistical package R.
+Explores drawing flowers, using mathematics such as the golden ratio; within the statistical package R.
 
 # 3R. Rise and Fall of Programming Languages
 Analyzing the relative popularity of programming languages over time based on Stack Overflow data.

@@ -6,7 +6,7 @@ Github sometimes has problems viewing Juypter Notebook files; if this occurs ent
 . Solutions to projects are not provided by DataCamp.
 
 # 1Py&R. Dr. Semmelweis and the Discovery of Handwashing
-Looks into the effect the introduction of handwashing by doctors had on the proportion of deaths at Viennese clinic.
+Looks into the effect the introduction of handwashing by doctors had on the proportion of deaths at a Viennese clinic.
 
 # 2R. Phyllotaxis Draw Flowers Using Mathematics
 Explores drawing flowers, using mathematics such as the golden ratio; within the statistical package R.

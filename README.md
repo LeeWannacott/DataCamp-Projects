@@ -18,4 +18,7 @@ Analyzes the relative popularity of programming languages over time based on Sta
 Discover what top tools Kaggle participants use for data science and machine learning.
 
 # 5R. Data Science for Social Good: Crime Study
-Use data science to catch criminals. Uses ggmap to map Grand Theft Auto's in San Fransisco.
+Use data science to catch criminals. Uses ggmap library to map Grand Theft Auto's in San Francisco.
+
+# 6R. Wrangling and Visualizing Musical Data
+Wrangle and visualize musical data to find common chords and compare the styles of different artists.

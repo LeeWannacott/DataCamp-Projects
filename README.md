@@ -22,3 +22,6 @@ Use data science to catch criminals. Uses ggmap library to map Grand Theft Auto'
 
 # 6R. Wrangling and Visualizing Musical Data
 Wrangle and visualize musical data to find common chords and compare the styles of different artists.
+
+# 7R. A Visual History of Nobel Prize Winners
+Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?

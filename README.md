@@ -34,3 +34,6 @@ Wrangle and visualize musical data to find common chords and compare the styles 
 
 Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
 
+```# 8R. Who Is Drunk and When in Ames, Iowa```
+
+Uses tidyverse library to look at breath alcohol test data from Ames, Iowa, USA.

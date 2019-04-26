@@ -37,3 +37,8 @@ Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. W
 ```# 8R. Who Is Drunk and When in Ames, Iowa```
 
 Uses tidyverse library to look at breath alcohol test data from Ames, Iowa, USA.
+
+``` # 9R. Level Difficulty in Candy Crush Saga```
+
+Analyzes data from the hit mobile game, Candy Crush Saga.
+

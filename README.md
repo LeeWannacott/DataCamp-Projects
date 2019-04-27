@@ -42,7 +42,7 @@ Uses tidyverse library to look at breath alcohol test data from Ames, Iowa, USA.
 
 Analyzes data from the hit mobile game, Candy Crush Saga.
 
-``` # 10R. Visualizing Inequalities in Life Expectancy.
+``` # 10R. Visualizing Inequalities in Life Expectancy.```
 
 Comparing life expectancy across countries and genders with ggplot2.
 

@@ -46,3 +46,7 @@ Analyzes data from the hit mobile game, Candy Crush Saga.
 
 Comparing life expectancy across countries and genders with ggplot2.
 
+
+```# 11R. Degrees That Pay You Back ```
+
+Explore the salary potential of college majors with a k-means cluster analysis.

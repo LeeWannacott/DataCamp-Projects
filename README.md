@@ -50,3 +50,8 @@ Comparing life expectancy across countries and genders with ggplot2.
 ```# 11R. Degrees That Pay You Back ```
 
 Explore the salary potential of college majors with a k-means cluster analysis.
+
+```# 12R. Predict Taxi Fares with Random Forests```
+
+Uses regression trees and random forests to find places where New York taxi drivers earn the most
+

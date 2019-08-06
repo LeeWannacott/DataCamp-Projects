@@ -55,3 +55,6 @@ Explore the salary potential of college majors with a k-means cluster analysis.
 
 Uses regression trees and random forests to find places where New York taxi drivers earn the most
 
+```# 13Py. Recreating John Snow's Ghost Map```
+Creating John Snow's famous map of the 1854 cholera outbreak in London.
+

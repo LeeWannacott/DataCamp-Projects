@@ -63,6 +63,6 @@ Creating John Snow's famous map of the 1854 cholera outbreak in London.
 
 Create and explore interactive maps using Leaflet to determine where to open the next Chipotle.
 
-```15Py. Naïve Bees_ Image Loading and Processing```
+```# 15Py. Naïve Bees_ Image Loading and Processing```
 
 Loading, transforming, and understanding images of honey bees and bumble bees in Python.

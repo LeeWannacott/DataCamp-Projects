@@ -59,3 +59,6 @@ Uses regression trees and random forests to find places where New York taxi driv
 
 Creating John Snow's famous map of the 1854 cholera outbreak in London.
 
+```# 14R. Where would you open a Chipotle?```
+
+Create and explore interactive maps using Leaflet to determine where to open the next Chipotle.

@@ -66,3 +66,7 @@ Create and explore interactive maps using Leaflet to determine where to open the
 ```# 15Py. Naïve Bees_ Image Loading and Processing```
 
 Loading, transforming, and understanding images of honey bees and bumble bees in Python.
+
+```# 16Py. Give Life_ Predict Blood Donations```
+
+Building a binary classifier to predict if a blood donor is likely to donate again..

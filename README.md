@@ -70,3 +70,7 @@ Loading, transforming, and understanding images of honey bees and bumble bees in
 ```# 16Py. Give Life_ Predict Blood Donations```
 
 Building a binary classifier to predict if a blood donor is likely to donate again..
+
+```# 17Py. Predicting Credit Card Approvals```
+
+Build a machine learning model to predict if a credit card application will get approved.

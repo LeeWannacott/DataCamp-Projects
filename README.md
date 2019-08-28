@@ -74,3 +74,8 @@ Building a binary classifier to predict if a blood donor is likely to donate aga
 ```# 17Py. Predicting Credit Card Approvals```
 
 Build a machine learning model to predict if a credit card application will get approved.
+
+```# 18Py. Classify Song Genres from Audio Data```
+
+Rock or rap?, Applying machine learning methods in Python to classify songs into genres.
+
